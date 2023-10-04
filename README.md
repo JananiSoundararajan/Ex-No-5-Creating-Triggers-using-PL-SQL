@@ -24,7 +24,7 @@
 DEVELOPED BY:JANANI.S
 REG NO:212222230049
 ```
-```
+```sql
 -- Create the trigger
 CREATE OR REPLACE TRIGGER log_sal_update
 BEFORE UPDATE ON employee
