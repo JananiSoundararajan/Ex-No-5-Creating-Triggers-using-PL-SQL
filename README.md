@@ -55,4 +55,4 @@ SELECT * FROM sal_log;
 ![triggeroutput](https://github.com/JananiSoundararajan/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/119477549/67113741-bacd-4db3-b47f-3d472581a74e)
 
 ### Result:
-        A trigger is created using PL/SQL.
+        The program for creating trigger is executed successfully.
